@@ -100,3 +100,30 @@ git branch
 ```shell
 git remote --v
 ```
+
+Получить лог
+```shell
+git log
+```
+Получить лог изменений с указанием кол-ва последних коммитов
+```shell
+git log -p
+```
+Выйти из режима логов по клавише `Q`
+
+Получить хэши и их коммиты
+```shell
+git log --online
+```
+и закоммитить результат
+```shell
+git add .
+```
+и 
+```shell
+git commit -m "Any changes"
+```
+Чтобы изменить текста последнего коммита
+```shell
+git commit --amend
+```
