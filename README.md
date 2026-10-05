@@ -26,7 +26,7 @@
 ---
 ### Навигация
 - [Основы редактирования текста](./Text.md)
-- [Marckdown](./markdown.md)
+- [Marckdown](./Markdown.md)
 - [BashCLI](./BashCLI.md)
 - [BashScripting](/Linux/README.md)
 - [Git](./git.md)
