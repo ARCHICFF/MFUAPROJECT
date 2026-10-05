@@ -35,3 +35,4 @@
 
 1. Научился форматированию подробнее 👉
 [1 УРОК ПО MARKDOWN](/Markdown.md)
+[Самостоятельная по Bash](/Test/READMEBASH.md)
