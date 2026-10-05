@@ -10,7 +10,7 @@
 -[Вступление](#vstup)
 -[Цитаты](#chita)
 -[Описание проекта](#opisan)
--[Прогресс обучения](#progres)
+-[Навигация](#navigats)
 ---
 
 ### Описание проекта
@@ -31,9 +31,11 @@
 >Болтовня ничего не стоит. Покажите мне код.
 
 ---
-### Прогресс обучение
-
-1. Уроки 👉
-[1 УРОК ПО MARKDOWN](/Markdown.md)
-2. Cамостоятельные 👉
-[Самостоятельная по Bash](/Test/READMEBASH.md)
+### Навигация
+- [Основы редактирования текста](./Text.md)
+- [Marckdown](./markdown.md)
+- [BashCLI](./BashCLI.md)
+- [BashScripting](/Linux/README.md)
+- [Git](./git.md)
+## Самостоятельные
+- [Bash](./Test/READMEBASH.md)
