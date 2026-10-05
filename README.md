@@ -58,7 +58,7 @@
 | 📝 [Основы редактирования текста](./Text.md) | Работа с текстовыми файлами          |
 | 🧩 [Markdown](./Markdown.md)                 | Основы языка разметки Markdown       |
 | 💻 [Bash CLI](./BashCLI.md)                  | Работа с Bash через командную строку |
-| 🐧 [Bash Scripting](./Linux/README.md)       | Написание Bash-скриптов              |
+| 🐧 [Bash Scripting](./Linux/Bash/README.md)  | Написание Bash-скриптов              |
 | 🔀 [Git](./git.md)                           | Система контроля версий Git          |
 
 ---
