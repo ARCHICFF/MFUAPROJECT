@@ -60,6 +60,7 @@
 | 💻 [Bash CLI](./BashCLI.md)                  | Работа с Bash через командную строку |
 | 🐧 [Bash Scripting](./Linux/Bash/README.md)  | Написание Bash-скриптов              |
 | 🔀 [Git](./git.md)                           | Система контроля версий Git          |
+| 🌖 [Мой сайт](https://archicff.github.io/mega_syite/) | Мой сайт на html            |
 
 ---
 
