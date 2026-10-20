@@ -61,6 +61,7 @@
 | 🐧 [Bash Scripting](./Linux/Bash/README.md)  | Написание Bash-скриптов              |
 | 🔀 [Git](./git.md)                           | Система контроля версий Git          |
 | 🌖 [Мой сайт](https://archicff.github.io/mega_syite/) | Мой сайт на html            |
+| 🌖 [Репозиторий сайта](https://github.com/ARCHICFF/mega_syite) | Репозиторий моего сайта |
 
 ---
 
