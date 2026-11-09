@@ -58,13 +58,14 @@
 | 📝 [Основы редактирования текста](./Text.md) | Работа с текстовыми файлами          |
 | 🧩 [Markdown](./Markdown.md)                 | Основы языка разметки Markdown       |
 | 💻 [Bash CLI](./BashCLI.md)                  | Работа с Bash через командную строку |
+|🐳 [Docker](./docker.md)                  |Конспект по Docker |
 | 🐧 [Bash Scripting](./Linux/Bash/README.md)  | Написание Bash-скриптов              |
 | 🔀 [Git](./git.md)                           | Система контроля версий Git          |
 | 🌖 [Мой сайт](https://archicff.github.io/mega_syite/) | Мой сайт на html            |
 | 📖 [Репозиторий сайта](https://github.com/ARCHICFF/mega_syite) | Репозиторий моего сайта |
 | 📖 [Репозиторий сайта для груминга](https://github.com/ARCHICFF/grumings_salon) | Репозиторий моего сайта для груминга |
 | 🐶 [Сайта для груминга](https://archicff.github.io/grumings_salon/) | Сайта для груминга |
-| 🐶 [Проект с одногрупниками](https://github.com/worixess/Team_site) | Репозиторий проекта |
+| 📖 [Проект с одногрупниками](https://github.com/worixess/Team_site) | Репозиторий проекта |
 
 ---
 
