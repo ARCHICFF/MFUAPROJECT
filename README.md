@@ -64,6 +64,7 @@
 | 📖 [Репозиторий сайта](https://github.com/ARCHICFF/mega_syite) | Репозиторий моего сайта |
 | 📖 [Репозиторий сайта для груминга](https://github.com/ARCHICFF/grumings_salon) | Репозиторий моего сайта для груминга |
 | 🐶 [Сайта для груминга](https://archicff.github.io/grumings_salon/) | Сайта для груминга |
+| 🐶 [Проект с одногрупниками](https://github.com/worixess/Team_site) | Репозиторий проекта |
 
 ---
 
