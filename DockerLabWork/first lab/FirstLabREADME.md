@@ -79,7 +79,7 @@ docker rmi $(docker images -q)
 docker search nginx
 ```
 
-![Скрин вывода поиска по слову nginx](img/docker%20search.png)
+![Скрин вывода поиска по слову nginx](img/dockersearch.png)
 
 Так же готовый образ можно искать в **Docker Desktop**
 
@@ -109,11 +109,11 @@ docker images
 curl http://localhost/
 ```
 
-![Скрин вывода curl](img/curl.png)
+![Скрин вывода curl](img/Curl.png)
 
 Способ 2 - [открыть http://localhost/ адрес в браузере](http://localhost/)
 
-![Скрин nginx в браузере](img/stranitsa.png)
+![Скрин nginx в браузере](img/Stranitsa.png)
 
 Опционально, если нужно только получить готовый образ, без создания и запуска контейнера, то
 ```shell
